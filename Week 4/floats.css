@@ -1,0 +1,29 @@
+header {
+    background: lightgreen;
+    height: 100px;
+
+
+}
+
+nav {
+    float: left;
+    width: 200px;
+    background: yellow;
+
+}
+
+section{
+    margin-left: 200px;
+    background: hotpink;
+}
+
+section img{
+    width: 50%;
+
+}
+
+footer{
+
+    background: purple;
+
+}
